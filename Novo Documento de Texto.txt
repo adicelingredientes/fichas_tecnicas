@@ -1,0 +1,2 @@
+cd C:\Users\paulo\OneDrive\Documentos\Comparador de Precos\Scrapper
+py sendmailbot-v2.py
