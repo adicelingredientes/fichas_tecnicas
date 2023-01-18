@@ -3,5 +3,5 @@ while ($true) {
     git add *
     git commit -m 'Rev.'
     git push
-    Start-Sleep -Seconds 30
+    Start-Sleep -Seconds 86400
 }
