@@ -1,0 +1,20 @@
+Criação de novos produtos para atrair clientes e parcerias
+Mudar visão de que adicel só revende
+
+Verificar como está nossa venda de temperos/condimentos no site
+Verificar quanto tempo um cliente passa no site
+
+Verificar que tipo de cliente compra os top produtos
+
+Identificar clientes de segmentos iguais e que não compram os mesmo produtos
+
+Verificar concorrencia de preços caso um cliente não comprar mais com a gente
+
+Impulsionar produtos com muito estoque e parados
+
+verificar produtos mais bem vendidos e quais seus clientes
+
+produtos com pouca venda devido ao preço
+
+-- direcionar   Pagina de compra especial para segmento/estado/cidade
+
