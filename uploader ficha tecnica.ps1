@@ -1,8 +1,9 @@
 while ($true) {
-    git push --set-upstream origin main
-    git commit -m 'Rev.'
-    git add *
-    git commit -m 'Rev.'
-    git push
-    Start-Sleep -Seconds 86400
+	git init
+	git add *
+	git commit -m 'rev.'
+	git remote add origin https://github.com/adicelingredientes/fichas_tecnicas.git
+	git checkout -b main
+	git push origin main --force
+	Start-Sleep -Seconds 86400
 }
